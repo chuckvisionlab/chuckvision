@@ -1,40 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chuck Stewart
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Charles V
+last_name: Stewart
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Rensselaer Polytechnic Institute
+    url: 'https://www.rpi.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is in computer vision, with applications in ecology and environmental conservation. The most exciting part of my work is the Wildbook project (earlier referred to as "IBEIS" (Image-Based Ecological Information System), where I lead much of the research in computer vision and machine learning. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Computer Vision 
+  - Ecology and Conservation
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: University of Wisconsin
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Mathematics
+      institution: Williams College
       year: 2008
 
 # Social/Academic Networking
@@ -44,16 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:stewart@rpi.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user%253D7egtxu0AAAAJ%2526hl%253Den
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cvstewart
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,10 +58,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'stewart@rpi.edu'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +69,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a professor and head of the Department of Computer Science here at Rensselaer Polytechnic Institute in Troy, New York. I earned my PhD at the University of Wisconsin in the Computer Sciences Department. I earned my bachelor's degree in Mathematics at Williams College.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I teach both undergraduate and graduate courses in the department. This fall (2019) I'm teaching Computational Vision, CSCI 4270 and 6270. My research is in computer vision, with applications in ecology and environmental conservation. The most exciting part of my work is the Wildbook project (earlier referred to as "IBEIS" (Image-Based Ecological Information System), where I lead much of the research in computer vision and machine learning. 
