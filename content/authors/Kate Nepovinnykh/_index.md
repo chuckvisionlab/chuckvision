@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kate Nepovinnykh
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kate 
+last_name: Nepovinnykh
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Kate Nepovinnykh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Rensselaer Polytechnic Institute
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

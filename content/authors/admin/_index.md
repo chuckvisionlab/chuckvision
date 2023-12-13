@@ -66,7 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 I am a professor and head of the Department of Computer Science here at Rensselaer Polytechnic Institute in Troy, New York. I earned my PhD at the University of Wisconsin in the Computer Sciences Department. I earned my bachelor's degree in Mathematics at Williams College.
