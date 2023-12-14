@@ -49,7 +49,7 @@ social:
     link: 'mailto:dirtmaxim@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: ''
+    link: 'https://twitter.com/GeorgeCushen'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ru/citations?user%253DiO-ruAkAAAAJ%2526hl%253Dru
@@ -69,7 +69,6 @@ email: 'upadha2@rpi.edu'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Students
-  - Visitors
 ---
 
 Experienced in Computer Vision and Deep Learning. My research interests lie primarily in the area of Medical Image Analysis and Industrial Computer Vision.
