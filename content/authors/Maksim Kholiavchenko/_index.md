@@ -27,7 +27,7 @@ bio: Experienced in Computer Vision and Deep Learning. My research interests lie
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Medical Imaging
+  - Medical Image Analysis
   - Ecology and Conservation
 
 education:
