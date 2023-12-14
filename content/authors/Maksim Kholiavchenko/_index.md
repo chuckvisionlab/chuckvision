@@ -69,6 +69,7 @@ email: 'upadha2@rpi.edu'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Students
+  - Visitors
 ---
 
 Experienced in Computer Vision and Deep Learning. My research interests lie primarily in the area of Medical Image Analysis and Industrial Computer Vision.
