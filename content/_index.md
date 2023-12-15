@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Welcome to **Chuck's VISION Lab** which is located at **Rensselaer Polytechnic Institute** in Troy, New York, where we harness the power of Computer Vision for the noble cause of Ecological Conservation."
+        Welcome to **Chuck's VISION Lab** which is located at **Rensselaer Polytechnic Institute** in Troy, New York, where we develop Computer Vision for Ecological Conservation."
   
   - block: collection
     content:
