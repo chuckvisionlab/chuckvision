@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Chuck's VISION Lab
       image:
-        filename: welcome.jpg
+        filename: entryway.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to **Chuck's VISION Lab** which is located at **Rensselaer Polytechnic Institute** in Troy, New York, where we harness the power of Computer Vision for the noble cause of Ecological Conservation."
   
   - block: collection
     content:
