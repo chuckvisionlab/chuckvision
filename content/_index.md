@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Chuck's VISION Lab
+        Chuck's
+        VISION Lab
       image:
         filename: entryway.jpg
       text: |
