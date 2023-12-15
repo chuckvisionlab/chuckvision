@@ -11,7 +11,7 @@ sections:
         Chuck's
         Vision Lab
       image:
-        filename: welcome.jpg
+        filename: entryway.jpg
       text: |
         <br>
         
