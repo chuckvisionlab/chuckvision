@@ -6,7 +6,7 @@ type: landing
 
 sections:
    - block: hero
-    content:
+     content:
       title: |
         Wowchemy
         Research Group
