@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Chuck's
+        Vision Lab
       image:
         filename: welcome.jpg
       text: |
